@@ -1,0 +1,27 @@
+
+.ModelSensor{
+  padding:20px 0;
+}
+ .sensordetail ul{
+	height:50px;
+  line-height: 50px;
+	border-bottom:1px solid #000;
+	width:100%;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+ .sensordetail .last{
+ 	border-bottom:0px;
+ 		height:20px;
+ }
+  .sensordetail .last li:nth-child(2){
+  	padding-right:20px;
+  }
+  .sensordetail ul li{
+  	color:#000;
+
+  }
+  .am-modal-transparent{
+  	width:335px;
+  }

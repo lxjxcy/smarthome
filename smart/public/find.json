@@ -1,0 +1,31 @@
+{
+	"status": 0,
+	"data": {
+		"billboards": [{
+			"id": 1,
+			"title": "新年焕新家电",
+			"url": "leftimg",
+			"artcle": "的signs尽快v你肯定是v难道是窘境",
+			"gettime": 12
+		}, {
+			"id": 2,
+			"title": "西游记女儿国",
+			"url": "leftimg5",
+			"artcle": "带上飞机Joe u如二位为根据地四女带上飞机Joe u如二位为根据地四女",
+			"gettime": 24
+		}, {
+			"id": 3,
+			"title": "新卖座卡公告",
+			"url": "leftimg6  ",
+			"artcle": "我今儿哦我前几日而我国风电VCD分布广泛和他人头",
+			"gettime": 13
+		}, {
+			"id": 4,
+			"title": "唐人街探案2",
+			"url": "slider",
+			"artcle": "卧室我就是犯贱地说道v从v发的的撒为人父人给",
+			"gettime": 21
+		}]
+	},
+	"msg": "ok"
+}

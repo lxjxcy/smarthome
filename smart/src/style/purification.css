@@ -1,0 +1,28 @@
+
+#purification li:nth-child(2) h4{
+	height:30px;
+	line-height: 5px;
+	color:#99cc00;
+	position: relative;
+	top:25px;
+}
+.purificationdetail{
+	padding-top:30px;
+}
+.purificationdetail ul{
+	height:50px;
+	border-top:1px solid #000;
+	line-height: 50px;
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	color:#000;
+
+}
+.purificationdetail ul:nth-child(3){
+	border-bottom:1px solid #000;
+margin-bottom:0px;
+}
+.purificationdetail ul img{
+	margin-left:10px;
+}

@@ -1,0 +1,14 @@
+{
+	"status": 0,
+	"data": {
+		"billboards": [{
+			"id": 1,
+			"name": "卧室灯",
+			"lampcolor": "红色",
+			"lamplight": "20%",
+			"width": 50,
+			"swich": "true"
+		}]
+	},
+	"msg": "ok"
+}

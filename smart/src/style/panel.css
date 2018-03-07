@@ -1,0 +1,28 @@
+
+#panel li:nth-child(2) h4{
+	height:30px;
+	line-height: 5px;
+	color:#99cc00;
+	position: relative;
+	top:25px;
+}
+.paneldetail{
+	padding-top:30px;
+}
+.paneldetail ul{
+	height:50px;
+	border-top:1px solid #000;
+	line-height: 50px;
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	color:#000;
+
+}
+.paneldetail ul:nth-child(3){
+	border-bottom:1px solid #000;
+margin-bottom:0px;
+}
+.paneldetail ul img{
+	margin-left:10px;
+}

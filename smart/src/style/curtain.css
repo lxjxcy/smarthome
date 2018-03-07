@@ -1,0 +1,36 @@
+.modleCurtain .mileage{
+	height:80px;
+	line-height: 80px;
+}
+.modleCurtain .StopClose{
+	height:70px;
+	display: flex;
+	justify-content: space-around;
+	align-items:center;
+
+}
+
+.modleCurtain .mileage .number{
+	display: inline-block;
+	width:50px;
+	height:30px;
+	border:1px solid #ccc;
+	text-align: center;
+	line-height: 30px;
+
+}
+.modleCurtain .mileage .curtainmineage{
+	font-size: 15px;
+
+}
+.modleCurtain .mileage .add,.modleCurtain .mileage .reduce{
+	display: inline-block;
+	width:30px;
+	height:30px;
+	border:1px solid #ccc;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 30px;
+	margin:0 10px;
+
+}

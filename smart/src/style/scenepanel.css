@@ -1,0 +1,26 @@
+
+.binding h5{
+	height:40px;
+	line-height: 40px;
+	border-bottom: 1px solid #000;
+	text-align: left;
+	font-size: 14px;
+	color:#000;
+}
+.binding ul{
+	list-style: none;
+	border-bottom: 1px solid #000;
+	padding-bottom: 5px;
+
+}
+.binding ul li{
+	height:40px;
+	line-height: 40px;
+	color:#000;
+	text-align: left
+}
+.binding ul li input{
+	margin-right: 10px;
+	border-radius: 50%
+
+}
